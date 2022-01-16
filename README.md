@@ -66,7 +66,7 @@ Conceptually, we need to allocate as many ports (on the global server) as `peerj
 
 > **Packages installed**: `http-proxy`, `http-proxy-middleware`, `lodash`
 
-## New task creation form
+## New task creation form ([PR#165](https://github.com/epfml/DeAI/pull/165))
 
 ### Motivation
 
